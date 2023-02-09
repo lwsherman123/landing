@@ -1,0 +1,12 @@
+.banner {
+  padding: 200px 0;
+  color: white;
+}
+
+.banner h1 {
+  margin: 0;
+}
+
+.banner .btn {
+  display: inline-block;
+}
